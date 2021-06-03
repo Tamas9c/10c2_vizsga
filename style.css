@@ -4,6 +4,8 @@ body {
 
 header {
   border: 1px solid white;
+  font-size: 200px;
+  background-image: url("fejlec.jpg");
 }
 
 header h1 {
@@ -54,4 +56,5 @@ footer p {
 #eredmeny {
   background-color: rgb(200, 200, 200);
   font-weight: bold;
+  border: 1px, bold, #ffc107;
 }
